@@ -40,14 +40,14 @@
             //########################################################################
             //############### THIS IS THE PART YOU MUST CHANGE #######################
             //########################################################################
-            var lastNames ="Last Name";
-            var firstNames ="First Name";
-            var births ="yyyy-mm-dd";//Date Of Birth
-            var passNumbers ="Passport Number";//Passport Number
-            var issueDates ="yyyy-mm-dd";//Passport Issue Date
-            var expiryDates ="yyyy-mm-dd";//Passport Expiry Date
-            var pptissuePalaces ="city name";//Passport Issue Place
-            var franN ="TG700******";
+            var lastNames =Amin;
+            var firstNames =Benchouk;
+            var births ="1989-10-29";//Date Of Birth
+            var passNumbers ="309859547";//Passport Number
+            var issueDates ="2021-10-17";//Passport Issue Date
+            var expiryDates ="2031-10-16";//Passport Expiry Date
+            var pptissuePalaces ="Tlemcen";//Passport Issue Place
+            var franN ="0559453344";
             //########################################################################
             //########################################################################
 
